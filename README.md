@@ -20,5 +20,5 @@ The page will reload if you make edits.<br>
 Launches the test runner in the interactive watch mode.<br>
 Currently there are only two test cases, more cases will be added later :)
 
-##Supported Navigator
+## Supported Navigator
 Chorme (latest tesed pass),  firefox (to be tested)
