@@ -1,5 +1,10 @@
-This code is for interview coding test using "react + typescript + webpack + jest"
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). <br>
+
+This code is for interview coding test using "react + typescript + webpack + jest" <br>
+
+Supported Navigator : Chorme (latest tesed pass),  firefox (to be tested)
+
+After pulling the code, you need to run "npm install" to install corresponding libraies <br>
 
 ## Available Scripts
 
@@ -25,4 +30,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
+
 
